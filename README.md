@@ -1,2 +1,2 @@
 # MAD_LAB
-JAVA questions 
+JAVA  LAB exercise questions 
